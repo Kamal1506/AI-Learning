@@ -6,6 +6,12 @@ Deep Learning (DL) is a subset of Machine Learning (ML) that uses artificial neu
 
 ---
 
+##
+
+Deep learning (DL) is a specialised subfield of machine learning (ML), meaning all deep learning is machine learning, but not all machine learning is deep learning. The primary difference is that deep learning uses multi-layered artificial neural networks to automatically learn from massive data, whereas traditional ML requires human engineers to manually structure the data
+
+---
+
 ## 🌳 AI Hierarchy
 
 ```text
