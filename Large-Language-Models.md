@@ -242,6 +242,14 @@ If important information falls outside the context window, the model may no long
 
 # 🌡️ What is Temperature?
 
+Technically,
+
+Temperature is a value on a scale (for example, 0.2, 0.7, 1.0). We often describe low and high temperature as ranges, not two fixed types.
+
+A better answer:
+
+Temperature controls the creativity of the AI model. Lower temperature produces more accurate and consistent responses, while higher temperature produces more creative and varied responses.
+
 **Temperature** controls how creative or predictable the model's responses are.
 
 | Low Temperature | High Temperature |
