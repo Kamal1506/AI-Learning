@@ -4,6 +4,10 @@
 
 Machine Learning (ML) is a subset of Artificial Intelligence (AI) that enables computers to learn patterns from data and improve their performance without being explicitly programmed for every situation.
 
+##
+
+Artificial intelligence (AI) and machine learning (ML) are closely linked, but AI is the broad goal of making machines smart, while ML is a specific method to achieve that goal by letting computers learn from data. All machine learning is artificial intelligence, but not all artificial intelligence uses machine learning
+
 ---
 
 ## 🌳 AI Hierarchy
