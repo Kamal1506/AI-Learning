@@ -69,7 +69,7 @@ Developers must write custom code for every service.
 
 ## 🖼️ Before MCP vs After MCP
 
-![Before MCP vs After MCP](images/mcp-before-after.webp)
+![Before MCP vs After MCP]([images/mcp-before-after.webp](https://www.descope.com/learn/post/mcp))
 
 ### Before MCP
 
